@@ -16,21 +16,21 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : Mimo wolf
- //  * @author : mimowolf88
- //  * @youtube : www.youtube.com/@mimofilms
-//   * @description : MIMO: Far from ordinary people
+ //  * @project_name : XLICON-V3-MD
+ //  * @author : salmanytofficial
+ //  * @youtube : https://www.youtube.com/@s4salmanyt
+//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
 //*
 //* 
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: tinashejohanness
-//Telegram: no
-//GitHub: no
-//WhatsApp: +27836966298
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@mimofilms
-//   * Created By Github: Tinashe Johannes.
-//   * Credit To Xeon, Mimo and team
+//Instagram: unicorn_xeon13
+//Telegram: t.me/ahmmitech
+//GitHub: @salmanytofficial
+//WhatsApp: +923184070915
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//   * Created By Github: DGXeon.
+//   * Credit To Xeon
 //   * © 2024 XLICON-V3-MD.
 // ⛥┌┤
 // */
@@ -41,11 +41,11 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: Mimo Films" //ur yt chanel name
+global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: tinashejohanness" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
 //________________________________________________________________________________________________________
-global.location = process.env.GL_INFO || "South Africa," //ur location
+global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur location
 //________________________________________________________________________________________________________
 
 //new
